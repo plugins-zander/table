@@ -1,17 +1,17 @@
-Table
+Make Table Online
 
 
 
 + html
-  + http://tool.zlogs.net/table/html
+  + <http://tool.zlogs.net/table/html>
 + LaTeX
-  + http://tool.zlogs.net/table/latex
+  + <http://tool.zlogs.net/table/latex>
 + Text
-  + http://tool.zlogs.net/table/text
+  + <http://tool.zlogs.net/table/text>
 + markdown
-  + http://tool.zlogs.net/table/markdown
+  + <http://tool.zlogs.net/table/markdown>
 + mediawiki
-  + http://tool.zlogs.net/table/mediawiki
+  + <http://tool.zlogs.net/table/mediawiki>
 
 
 
